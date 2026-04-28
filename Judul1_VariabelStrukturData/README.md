@@ -6,7 +6,7 @@ Program ini berfungsi sebagai sistem pemesanan makanan dan minuman sederhana yan
 
 <img width="1742" height="3142" alt="kk" src="https://github.com/user-attachments/assets/d2a4ff33-ea9e-413c-ac97-510f01aa8d02" />
 
-1. Mendefinisikan fungsi bernama menu untuk membungkus kode yang menampilkan daftar pilihan menu utama
+1. Mendefinisikan fungsi bernama menu() untuk membungkus kode yang menampilkan daftar pilihan menu utama
 2. Menampilkan judul sistem WARKOP RUSIA dengan baris baru di awal
 3. Menampilkan pilihan menu nomor 1
 4. Menampilkan pilihan menu nomor 2
@@ -81,3 +81,28 @@ Program ini berfungsi sebagai sistem pemesanan makanan dan minuman sederhana yan
 73. 
 74. memastikan program berjalan jika file dieksekusi langsung
 75. Memanggil fungsi main() untuk menjalankan program
+
+Output : 
+
+Tampilan menu utama
+<img width="271" height="167" alt="Screenshot 2026-04-28 222312" src="https://github.com/user-attachments/assets/e15d4849-dc1e-44e5-94e2-5697d964435d" />
+
+Menu 1
+<img width="283" height="167" alt="Screenshot 2026-04-28 222455" src="https://github.com/user-attachments/assets/72c4c7d8-8e86-4cbd-9da1-e2846464da8c" />
+
+Menu 2
+<img width="431" height="93" alt="Screenshot 2026-04-28 222636" src="https://github.com/user-attachments/assets/c7ad71b1-15e5-4c6a-b714-5cfff59352d9" />
+
+Menu 3
+<img width="281" height="102" alt="Screenshot 2026-04-28 222746" src="https://github.com/user-attachments/assets/705f88f7-7864-4195-b0ee-97fd45372166" />
+
+Menu 4
+<img width="259" height="34" alt="Screenshot 2026-04-28 222911" src="https://github.com/user-attachments/assets/f211ef48-bf59-496b-b2af-70e0399f377b" />
+
+Menu 5
+<img width="427" height="23" alt="Screenshot 2026-04-28 222932" src="https://github.com/user-attachments/assets/43e3d6ee-f95c-41b2-846a-c6f035d1b6ec" />
+
+
+
+
+

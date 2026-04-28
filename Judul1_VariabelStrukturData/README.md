@@ -6,7 +6,6 @@ Program ini berfungsi sebagai sistem pemesanan makanan dan minuman sederhana yan
 
 <img width="1742" height="3142" alt="kk" src="https://github.com/user-attachments/assets/d2a4ff33-ea9e-413c-ac97-510f01aa8d02" />
 
-
 Penjelasan Kode :
 1. Mendefinisikan fungsi bernama menu() untuk membungkus kode yang menampilkan daftar pilihan menu utama
 2. Menampilkan judul sistem WARKOP RUSIA dengan baris baru di awal

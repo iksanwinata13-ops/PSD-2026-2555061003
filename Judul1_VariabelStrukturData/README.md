@@ -79,5 +79,5 @@ Program ini berfungsi sebagai sistem pemesanan makanan dan minuman sederhana yan
 71. Jika user memasukkan pilihan selain menu yang tersedia
 72. Menampilkan pesan kesalahan pilihan
 73. 
-74. if __name__ == "__main__": memastikan program berjalan jika file dieksekusi langsung
+74. memastikan program berjalan jika file dieksekusi langsung
 75. Memanggil fungsi main() untuk menjalankan program

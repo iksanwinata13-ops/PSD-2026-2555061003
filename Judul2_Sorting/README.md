@@ -46,3 +46,4 @@ Penjelasan kode :
 37. Memanggil fungsi main untuk menjalankan program.
 
 Output :
+<img width="454" height="153" alt="Screenshot 2026-05-04 214749" src="https://github.com/user-attachments/assets/31a13736-e76d-4de0-b745-dc6b95cddf76" />

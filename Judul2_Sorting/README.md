@@ -7,43 +7,44 @@ Program ini berfungsi untuk mengelola data jarak tempuh kendaraan dengan tujuan 
 <img width="1510" height="2002" alt="kkkk" src="https://github.com/user-attachments/assets/557ecb46-561f-4532-8e89-01e91bca54c9" />
 
 Penjelasan kode : 
-1. Mendefinisikan fungsi bubble_sort untuk mengurutkan data.
-2. Mengambil panjang data menggunakan len().
-3. Memulai perulangan pertama untuk proses sorting.
-4. Memulai perulangan kedua untuk membandingkan elemen.
-5. Mengecek apakah data lebih besar dari sebelahnya.
-6. Menukar posisi jika tidak sesuai urutan.
-7. 
-8. Mendefinisikan fungsi input_jumlah untuk input jumlah kendaraan.
-9. Menggunakan perulangan while True agar input terus diminta.
-10. Menggunakan try untuk mencoba konversi ke integer.
-11. Mengecek apakah nilai kurang dari atau sama dengan 0.
-12. Menampilkan pesan error jika tidak valid.
-13. Mengembalikan nilai jika sudah benar.
-14. Menangkap error jika input bukan angka.
-15. Menampilkan pesan kesalahan input.
-16.
-17. Mendefinisikan fungsi input_jarak untuk input jarak tempuh.
-18. Menggunakan perulangan agar input valid.
-19. Menggunakan try-except untuk error handling.
-20. Mengecek apakah nilai negatif.
-21. Menampilkan pesan jika jarak tidak valid.
-22. Mengembalikan nilai jika valid.
-23. Menangkap error jika input bukan angka.
-24. Menampilkan pesan error.
-25. 
-26. Mendefinisikan fungsi utama main.
-27. Membuat list kosong untuk menyimpan data.
-28. Memanggil fungsi input_jumlah.
-29. Memulai perulangan untuk input data kendaraan.
-30. Mengambil input jarak tempuh tiap kendaraan.
-31. Menyimpan data ke dalam list.
-32. 
+1. Mendefinisikan fungsi tukar untuk menukar dua elemen dalam array.
+2. Menyimpan nilai sementara dari salah satu elemen.
+3. Mengganti nilai elemen pertama dengan elemen kedua.
+4. Mengembalikan nilai sementara ke posisi elemen kedua.
+5.
+6. Mendefinisikan fungsi bubble_sort untuk mengurutkan data.
+7. Melakukan perulangan pertama untuk proses sorting.
+8. Melakukan perulangan kedua untuk membandingkan elemen.
+9. Mengecek apakah data lebih besar dari sebelahnya.
+10. Menukar posisi jika tidak sesuai urutan.
+11.
+12. Mendefinisikan fungsi utama main.
+13. Menggunakan try untuk mencoba mengambil input jumlah kendaraan.
+14. Mengambil input dan mengubahnya menjadi integer.
+15. Menangkap error jika input tidak valid.
+16. Menampilkan pesan kesalahan input.
+17. Menghentikan program jika terjadi error.
+18.
+19. Membuat list kosong untuk menyimpan data.
+20. Menampilkan pesan untuk memasukkan data.
+21. Memulai perulangan untuk input data kendaraan.
+22.
+23. Menggunakan perulangan while True agar input valid.
+24. Menggunakan try untuk mengambil input.
+25. Mengambil input jarak tempuh tiap kendaraan.
+26. Mengecek apakah nilai negatif.
+27. Menampilkan pesan jika jarak tidak valid.
+28. Menyimpan data ke dalam list.
+29. Menghentikan perulangan jika input benar.
+30. Menangkap error jika input bukan angka.
+31. Menampilkan pesan error.
+32.
 33. Memanggil fungsi bubble_sort untuk mengurutkan data.
-34. Menampilkan hasil pengurutan dalam bentuk array.
-35. 
-36. Mengecek apakah file dijalankan langsung.
-37. Memanggil fungsi main untuk menjalankan program.
+34. Menampilkan hasil pengurutan data.
+35. Menampilkan data dalam bentuk array secara berurutan.
+36.
+37. Mengecek apakah file dijalankan langsung.
+38. Memanggil fungsi main untuk menjalankan program.
 
 Output :
 <img width="454" height="153" alt="Screenshot 2026-05-04 214749" src="https://github.com/user-attachments/assets/31a13736-e76d-4de0-b745-dc6b95cddf76" />

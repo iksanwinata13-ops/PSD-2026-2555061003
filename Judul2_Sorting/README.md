@@ -6,7 +6,7 @@ Program ini berfungsi untuk mengelola data jarak tempuh kendaraan dengan tujuan 
 
 <img width="1510" height="2002" alt="kkkk" src="https://github.com/user-attachments/assets/557ecb46-561f-4532-8e89-01e91bca54c9" />
 
-kode : 
+Penjelasan kode : 
 1. Mendefinisikan fungsi bubble_sort untuk mengurutkan data.
 2. Mengambil panjang data menggunakan len().
 3. Memulai perulangan pertama untuk proses sorting.
@@ -44,3 +44,5 @@ kode :
 35. 
 36. Mengecek apakah file dijalankan langsung.
 37. Memanggil fungsi main untuk menjalankan program.
+
+Output :

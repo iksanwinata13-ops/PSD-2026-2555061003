@@ -4,7 +4,7 @@ Judul Program : Program mengurutkan jarak tempuh kendaraan
 
 Program ini berfungsi untuk mengelola data jarak tempuh kendaraan dengan tujuan mengurutkan data tersebut dari nilai terkecil hingga terbesar secara otomatis. Program ini membantu pengguna dalam menyusun data jarak tempuh kendaraan agar lebih terstruktur dan mudah dianalisis. Dengan adanya validasi input, program ini juga mampu mencegah kesalahan saat memasukkan data, sehingga hasil yang diperoleh lebih akurat dan dapat diandalkan. Algoritma yang digunakan dalam program ini adalah Bubble Sort, yaitu metode pengurutan sederhana yang bekerja dengan cara membandingkan dua elemen yang berdekatan dan menukarnya jika posisinya tidak sesuai.
 
-<img width="1510" height="2002" alt="kkkk" src="https://github.com/user-attachments/assets/557ecb46-561f-4532-8e89-01e91bca54c9" />
+<img width="1294" height="2002" alt="ffff" src="https://github.com/user-attachments/assets/08cdfebe-edaa-41dd-8b34-6e7b4bed5ef5" />
 
 Penjelasan kode : 
 1. Mendefinisikan fungsi tukar untuk menukar dua elemen dalam array.
@@ -47,4 +47,6 @@ Penjelasan kode :
 38. Memanggil fungsi main untuk menjalankan program.
 
 Output :
-<img width="454" height="153" alt="Screenshot 2026-05-04 214749" src="https://github.com/user-attachments/assets/31a13736-e76d-4de0-b745-dc6b95cddf76" />
+<img width="349" height="111" alt="Screenshot 2026-05-04 232337" src="https://github.com/user-attachments/assets/c2ebc56b-4103-4895-b282-95fc4c3809ec" />
+
+Link : 

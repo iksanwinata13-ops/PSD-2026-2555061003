@@ -81,3 +81,8 @@ Penjelasan kode :
 37. Baris standar Python untuk memastikan fungsi main() hanya dijalankan ketika file dieksekusi langsung.
 
 38. Memanggil fungsi main() untuk menjalankan program.
+
+Output :
+<img width="615" height="111" alt="Screenshot 2026-05-11 221155" src="https://github.com/user-attachments/assets/40e599de-25d0-460b-af5c-a6df642f0e9e" />
+<img width="615" height="61" alt="Screenshot 2026-05-11 221224" src="https://github.com/user-attachments/assets/9d9e9015-3385-46b5-8a52-21d0adef18de" />
+

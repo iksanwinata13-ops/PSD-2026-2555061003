@@ -12,8 +12,8 @@ Penjelasan kode :
 2. Mendefinisikan method konstruktor dengan parameter max_size (default 100) untuk inisialisasi antrian.
 3. Menyimpan nilai max_size ke atribut self.MAXN sebagai kapasitas maksimal antrian.
 4. Membuat list self.q berisi None sebanyak self.MAXN sebagai wadah penyimpanan elemen antrian.
-5. Menginisialisasi self.front_idx dengan nilai -1 sebagai penanda posisi depan antrian (kosong).
-6. Menginisialisasi self.rear_idx dengan nilai -1 sebagai penanda posisi belakang antrian (kosong).
+5. Menginisialisasi self.front_idx dengan nilai -1 sebagai penanda posisi depan antrian.
+6. Menginisialisasi self.rear_idx dengan nilai -1 sebagai penanda posisi belakang antrian.
 7.
 8. Mendefinisikan method is_empty untuk mengecek apakah antrian dalam keadaan kosong.
 9. Mengembalikan nilai True jika front_idx bernilai -1, yang berarti antrian kosong.
@@ -30,7 +30,7 @@ Penjelasan kode :
 20. Mengecek apakah elemen pada posisi i sama dengan nilai x yang dicari.
 21. Mengembalikan True jika nilai x ditemukan di antrian.
 22.
-23. Mengecek apakah indeks i sudah mencapai posisi rear_idx (elemen terakhir).
+23. Mengecek apakah indeks i sudah mencapai posisi rear_idx.
 24. Menghentikan perulangan karena seluruh antrian sudah ditelusuri.
 25.
 26. Memindahkan indeks i ke posisi berikutnya secara sirkular menggunakan operasi modulo.
@@ -62,7 +62,7 @@ Penjelasan kode :
 52.
 53. Mencetak nomor pelanggan yang sedang dilayani, yaitu elemen pada posisi front_idx.
 54.
-55. Mengecek apakah elemen yang dilayani adalah satu-satunya elemen (front sama dengan rear).
+55. Mengecek apakah elemen yang dilayani adalah satu-satunya elemen.
 56. Mengatur kembali front_idx ke -1 menandakan antrian menjadi kosong setelah dequeue.
 57. Mengatur kembali rear_idx ke -1 menandakan antrian menjadi kosong setelah dequeue.
 58. Jika masih ada elemen lain, jalankan blok else.
@@ -84,7 +84,7 @@ Penjelasan kode :
 74. Memulai perulangan tanpa henti untuk mencetak semua elemen antrian satu per satu.
 75. Mencetak elemen pada posisi i diikuti spasi tanpa pindah baris ke layar.
 76.
-77. Mengecek apakah indeks i sudah mencapai posisi rear_idx (elemen terakhir).
+77. Mengecek apakah indeks i sudah mencapai posisi rear_idx.
 78. Menghentikan perulangan karena semua elemen antrian sudah ditampilkan.
 79.
 80. Memindahkan indeks i ke posisi berikutnya secara sirkular menggunakan operasi modulo.
@@ -104,28 +104,28 @@ Penjelasan kode :
 94. Mencetak opsi kelima menu: Keluar dari program.
 95.
 96. Memulai blok penanganan error agar program tidak crash jika user salah input.
-97. Mengambil input pilihan menu dari user dan mengubahnya menjadi bilangan bulat (integer).
-98. Menangkap error jika user memasukkan sesuatu yang bukan angka (misal: huruf).
+97. Mengambil input pilihan menu dari user dan mengubahnya menjadi bilangan bulat.
+98. Menangkap error jika user memasukkan sesuatu yang bukan angka.
 99. Mencetak pesan peringatan "Input tidak valid!" jika terjadi ValueError.
 100. Mengulang perulangan dari awal menu jika terjadi error input.
 101.
-102. Mengecek jika user memilih menu nomor 1 (Tambah Pelanggan).
-103. Memulai blok try untuk menangani kemungkinan error saat input nomor pelanggan.
+102. Mengecek jika user memilih menu nomor 1.
+103. try except untuk menangani kemungkinan error saat input nomor pelanggan.
 104. Mengambil input nomor pelanggan dari user dan mengubahnya menjadi integer.
 105. Memanggil method enqueue untuk menambahkan nomor pelanggan ke antrian.
 106. Menangkap error ValueError jika user memasukkan bukan angka sebagai nomor pelanggan.
 107. Mencetak pesan "Input tidak valid!" jika terjadi error pada input nomor pelanggan.
 108.
-109. Mengecek jika user memilih menu nomor 2 (Layani Pelanggan).
+109. Mengecek jika user memilih menu nomor 2.
 110. Memanggil method dequeue untuk melayani dan menghapus pelanggan paling depan antrian.
 111.
-112. Mengecek jika user memilih menu nomor 3 (Tampilkan Antrian).
+112. Mengecek jika user memilih menu nomor 3.
 113. Memanggil method display untuk menampilkan seluruh isi antrian ke layar.
 114.
-115. Mengecek jika user memilih menu nomor 4 (Hapus Semua Antrian).
+115. Mengecek jika user memilih menu nomor 4.
 116. Memanggil method clear_queue untuk mengosongkan seluruh antrian sekaligus.
 117.
-118. Mengecek jika user memilih menu nomor 5 (Keluar).
+118. Mengecek jika user memilih menu nomor 5.
 119. Mencetak pesan "Program selesai." dan mengakhiri loop karena pilih bernilai 5.
 120.
 121. Menangani kondisi jika user memasukkan angka yang tidak ada dalam pilihan menu.
@@ -153,4 +153,4 @@ Output :
 
 <img width="367" height="180" alt="Screenshot 2026-05-19 232534" src="https://github.com/user-attachments/assets/3dd1f257-b885-413f-9d18-6395a53cdde2" />
 
-Link : 
+Link : https://youtu.be/_15YUO003VQ?si=Zcf2ZT9XwmVNq5pS

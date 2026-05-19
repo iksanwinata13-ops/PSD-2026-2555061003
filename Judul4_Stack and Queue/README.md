@@ -142,7 +142,7 @@ Output :
 
 <img width="368" height="181" alt="Screenshot 2026-05-19 232303" src="https://github.com/user-attachments/assets/f695c537-b5be-4420-83be-ec31692d35f5" />
 
-<img width="397" height="212" alt="Screenshot 2026-05-19 233200" src="https://github.com/user-attachments/assets/2f94ed9a-3f33-47d8-94b8-605ac44305f1" />
+<img width="397" height="212" alt="Screenshot 2026-05-19 233200" src="https://github.com/user-attachments/assets/c3750347-0f2f-4227-91b7-596e75ae9039" />
 
 <img width="380" height="206" alt="Screenshot 2026-05-19 232448" src="https://github.com/user-attachments/assets/80955a49-9a03-4fd0-bcb0-cb4e63ea7672" />
 

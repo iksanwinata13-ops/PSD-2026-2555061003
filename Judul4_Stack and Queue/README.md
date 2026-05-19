@@ -136,7 +136,6 @@ Penjelasan kode :
 
 Output : 
 
-<img width="1001" height="317" alt="Screenshot 2026-05-18 234000" src="https://github.com/user-attachments/assets/db999791-0d6e-4f42-89ca-7a0bfa3e7b46" />
 
 <img width="382" height="187" alt="Screenshot 2026-05-19 232252" src="https://github.com/user-attachments/assets/47ba7c67-50ba-448f-9320-f9ffff07e66a" />
 

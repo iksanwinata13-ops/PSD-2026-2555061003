@@ -10,7 +10,7 @@ Penjelasan Kode :
 
 Berikut lanjutan **nomor 1–101 lengkap**, dengan nomor yang barisnya kosong tetap ditampilkan tanpa keterangan.
 
-1.Mendefinisikan class `Node` yang digunakan untuk merepresentasikan setiap node pada Binary Search Tree.
+1. Mendefinisikan class `Node` yang digunakan untuk merepresentasikan setiap node pada Binary Search Tree.
 2.Mendefinisikan constructor `__init__` untuk class Node.
 **3.** Menyimpan data yang dimasukkan ke dalam atribut `key`.
 **4.** Menginisialisasi child kiri dengan nilai `None`.
